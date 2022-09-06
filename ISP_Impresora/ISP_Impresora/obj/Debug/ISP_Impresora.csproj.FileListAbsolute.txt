@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ISP_Impresora\ISP_Impresora\bin\Debug\ISP_Impresora.exe.config
+C:\Users\User\source\repos\ISP_Impresora\ISP_Impresora\bin\Debug\ISP_Impresora.exe
+C:\Users\User\source\repos\ISP_Impresora\ISP_Impresora\bin\Debug\ISP_Impresora.pdb
+C:\Users\User\source\repos\ISP_Impresora\ISP_Impresora\obj\Debug\ISP_Impresora.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ISP_Impresora\ISP_Impresora\obj\Debug\ISP_Impresora.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ISP_Impresora\ISP_Impresora\obj\Debug\ISP_Impresora.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ISP_Impresora\ISP_Impresora\obj\Debug\ISP_Impresora.exe
+C:\Users\User\source\repos\ISP_Impresora\ISP_Impresora\obj\Debug\ISP_Impresora.pdb

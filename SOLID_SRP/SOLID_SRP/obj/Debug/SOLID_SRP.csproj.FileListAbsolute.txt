@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\SOLID_SRP\SOLID_SRP\bin\Debug\SOLID_SRP.exe.config
+C:\Users\User\source\repos\SOLID_SRP\SOLID_SRP\bin\Debug\SOLID_SRP.exe
+C:\Users\User\source\repos\SOLID_SRP\SOLID_SRP\bin\Debug\SOLID_SRP.pdb
+C:\Users\User\source\repos\SOLID_SRP\SOLID_SRP\obj\Debug\SOLID_SRP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SOLID_SRP\SOLID_SRP\obj\Debug\SOLID_SRP.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\SOLID_SRP\SOLID_SRP\obj\Debug\SOLID_SRP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SOLID_SRP\SOLID_SRP\obj\Debug\SOLID_SRP.exe
+C:\Users\User\source\repos\SOLID_SRP\SOLID_SRP\obj\Debug\SOLID_SRP.pdb

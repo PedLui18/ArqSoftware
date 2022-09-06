@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\UsuarioFactory\UsuarioFactory\bin\Debug\UsuarioFactory.exe.config
+C:\Users\User\source\repos\UsuarioFactory\UsuarioFactory\bin\Debug\UsuarioFactory.exe
+C:\Users\User\source\repos\UsuarioFactory\UsuarioFactory\bin\Debug\UsuarioFactory.pdb
+C:\Users\User\source\repos\UsuarioFactory\UsuarioFactory\obj\Debug\UsuarioFactory.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UsuarioFactory\UsuarioFactory\obj\Debug\UsuarioFactory.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\UsuarioFactory\UsuarioFactory\obj\Debug\UsuarioFactory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UsuarioFactory\UsuarioFactory\obj\Debug\UsuarioFactory.exe
+C:\Users\User\source\repos\UsuarioFactory\UsuarioFactory\obj\Debug\UsuarioFactory.pdb

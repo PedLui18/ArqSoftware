@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\bin\Debug\net6.0\SinOCP.exe
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\bin\Debug\net6.0\SinOCP.deps.json
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\bin\Debug\net6.0\SinOCP.runtimeconfig.json
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\bin\Debug\net6.0\SinOCP.dll
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\bin\Debug\net6.0\SinOCP.pdb
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\obj\Debug\net6.0\SinOCP.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\obj\Debug\net6.0\SinOCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\obj\Debug\net6.0\SinOCP.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\obj\Debug\net6.0\SinOCP.AssemblyInfo.cs
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\obj\Debug\net6.0\SinOCP.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\obj\Debug\net6.0\SinOCP.dll
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\obj\Debug\net6.0\refint\SinOCP.dll
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\obj\Debug\net6.0\SinOCP.pdb
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\obj\Debug\net6.0\SinOCP.genruntimeconfig.cache
+C:\Users\Pedro\Documents\ArqSoftware\SinOCP\obj\Debug\net6.0\ref\SinOCP.dll

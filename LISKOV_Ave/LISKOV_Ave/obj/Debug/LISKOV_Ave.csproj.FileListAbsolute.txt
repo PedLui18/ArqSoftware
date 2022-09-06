@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\LISKOV_Ave\LISKOV_Ave\bin\Debug\LISKOV_Ave.exe.config
+C:\Users\User\source\repos\LISKOV_Ave\LISKOV_Ave\bin\Debug\LISKOV_Ave.exe
+C:\Users\User\source\repos\LISKOV_Ave\LISKOV_Ave\bin\Debug\LISKOV_Ave.pdb
+C:\Users\User\source\repos\LISKOV_Ave\LISKOV_Ave\obj\Debug\LISKOV_Ave.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LISKOV_Ave\LISKOV_Ave\obj\Debug\LISKOV_Ave.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\LISKOV_Ave\LISKOV_Ave\obj\Debug\LISKOV_Ave.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LISKOV_Ave\LISKOV_Ave\obj\Debug\LISKOV_Ave.exe
+C:\Users\User\source\repos\LISKOV_Ave\LISKOV_Ave\obj\Debug\LISKOV_Ave.pdb

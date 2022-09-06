@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ISP_LAboratorio1\ISP_LAboratorio1\bin\Debug\ISP_LAboratorio1.exe.config
+C:\Users\User\source\repos\ISP_LAboratorio1\ISP_LAboratorio1\bin\Debug\ISP_LAboratorio1.exe
+C:\Users\User\source\repos\ISP_LAboratorio1\ISP_LAboratorio1\bin\Debug\ISP_LAboratorio1.pdb
+C:\Users\User\source\repos\ISP_LAboratorio1\ISP_LAboratorio1\obj\Debug\ISP_LAboratorio1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ISP_LAboratorio1\ISP_LAboratorio1\obj\Debug\ISP_LAboratorio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ISP_LAboratorio1\ISP_LAboratorio1\obj\Debug\ISP_LAboratorio1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ISP_LAboratorio1\ISP_LAboratorio1\obj\Debug\ISP_LAboratorio1.exe
+C:\Users\User\source\repos\ISP_LAboratorio1\ISP_LAboratorio1\obj\Debug\ISP_LAboratorio1.pdb
